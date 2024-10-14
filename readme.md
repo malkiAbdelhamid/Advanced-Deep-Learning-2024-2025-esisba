@@ -1,6 +1,6 @@
 ## 🛠 Installation & Set Up
 
-If tou do not have conda package manager then visit this page [Getting Started with conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html)
+If you do not have conda package manager then visit this page [Getting Started with conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html)
 
 1. Create conda environment, I faced some issues with python 3.11.4
 
